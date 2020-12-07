@@ -79,6 +79,7 @@ local_security_policy { 'System cryptography: Use FIPS compiant algorithms for e
       Access this computer from the network
       Account lockout duration
       Account lockout threshold
+      Accounts: Administrator account status
       Accounts: Block Microsoft accounts
       Accounts: Limit local account use of blank passwords to console logon only
       Accounts: Rename administrator account
